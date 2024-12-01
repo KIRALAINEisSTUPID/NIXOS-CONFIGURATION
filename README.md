@@ -1,3 +1,5 @@
+![Nix Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJpLRi11usTCs-D-gd8En4FDX1uWfxqdKt9Q&s)
+
 # NixOS Configuration Files
 
 This repository contains my personal NixOS configuration files. It's an example of how I set up my NixOS system, including the configuration of various packages, services, and system settings using Nix.
