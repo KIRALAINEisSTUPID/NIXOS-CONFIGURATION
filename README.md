@@ -1,4 +1,3 @@
-![Nix Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvs4K3IKHZHT-ON98LL7NQADuIbqGwOYZoDQ&s)
 ![nix](https://static-00.iconduck.com/assets.00/nixos-icon-2048x1776-8czr8nir.png)
 
 # NixOS Configuration Files
