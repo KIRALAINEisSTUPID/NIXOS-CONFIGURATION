@@ -39,12 +39,12 @@
   services.xserver.desktopManager.plasma5 = {
     enable = true;
     excludePackages = with pkgs.libsForQt5; [
-      konsole
+      konsole 
       elisa
       spectacle
       okular
       gwenview
-    ];
+    ]; #   DELETES USELESS APPS ON KDE PLASMA 5
 
   };
   # Configure keymap in X11
