@@ -22,7 +22,7 @@ If you're interested in using my NixOS configuration as a reference, follow the 
 
 ### 1. Clone the Repository
 
-```git clone https://github.com/yourusername/nixos-config.git```
+```https://github.com/KIRALAINEisSTUPID/NIXOS-CONFIGURATION.git```
 ```cd nixos-config```
 ### 2. Apply the Configuration
 Make sure you have a working NixOS installation and that you are in your NixOS configuration directory (usually /etc/nixos/). You can then copy or symlink my configuration files to your system's configuration folder.
